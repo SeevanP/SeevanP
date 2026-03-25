@@ -12,7 +12,7 @@ I build practical, real-world projects:
 I enjoy building end-to-end solutions—from collecting raw data to turning it into meaningful insights.  
 Currently focused on combining **data + real-world applications** (and maybe predicting the next big catch 🎣).
 
-# Reaching out? Here ⇩
+## Reaching out? Here ⇩
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seevanponnan)    (Don't actively use it, just have an account created)
 
