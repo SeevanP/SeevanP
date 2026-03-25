@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Aspiring Data Scientist/ Software Developer who loves challenges
+## **Aspiring Data Scientist/ Software Developer who loves challenges**
 
 ### The one stop dev for all your software and data needs
 
