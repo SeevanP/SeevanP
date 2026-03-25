@@ -14,7 +14,7 @@ Currently focused on combining **data + real-world applications** (and maybe pre
 
 # Ways to contact me:
 
-[LinkedIn](https://linkedin.com/in/seevanponnan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seevanponnan) 
 
 📧Email: seevan.github@gmail.com
 
