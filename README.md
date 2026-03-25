@@ -1,4 +1,4 @@
-# 💻 About Me:
+## 💻 About Me:
 
 🎣 Data enthusiast who treats fishing like a real-world dataset  
 📊 I collect, analyze, and break down patterns—from tidal coefficients to code performance  
