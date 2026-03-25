@@ -2,7 +2,7 @@
 
 **Aspiring Data Scientist/ Software Developer who loves challenges**
 
-**The one stop dev for all your software and data needs**
+**The one stop dev for all your software and data needs, especially proficient in python and kotlin**
 
 
 
