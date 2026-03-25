@@ -1,8 +1,20 @@
 # 💫 About Me:
 
-**Aspiring Data Scientist/ Software Developer who loves challenges**
+🎣 Data enthusiast who treats fishing like a real-world dataset  
+📊 I collect, analyze, and break down patterns—from tidal coefficients to code performance  
+💻 Aspiring Data Scientist & Software Developer who enjoys solving messy, real-world problems  
 
-**The one stop dev for all your software and data needs, especially proficient in python and kotlin**
+I build practical, real-world projects:
+- 📱 Mobile apps using **Kotlin & Android Studio** (from idea to working product)
+- 📊 Data analysis and visualization using Python  
+- 🧠 Exploring machine learning and pattern recognition  
+
+I enjoy building end-to-end solutions—from collecting raw data to turning it into meaningful insights.  
+Currently focused on combining **data + real-world applications** (and maybe predicting the next big catch 🎣).
+
+
+### 🎣 Dev in Action
+![Fishing Dev](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 
 
