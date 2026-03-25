@@ -15,6 +15,7 @@ Currently focused on combining **data + real-world applications** (and maybe pre
 # Ways to contact me:
 
 email: seevan.github@gmail.com
+
 linkedin: Seevan Ponnan (do not use it often, just have an account)
 
 
