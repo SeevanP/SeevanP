@@ -14,9 +14,10 @@ Currently focused on combining **data + real-world applications** (and maybe pre
 
 # Ways to contact me:
 
-email: seevan.github@gmail.com
+[LinkedIn](https://linkedin.com/in/Seevan Ponnan) (account created but don't use it much)
 
-linkedin: Seevan Ponnan (do not use it often, just have an account)
+📧Email: seevan.github@gmail.com
+
 
 
 # 💻 Tech Stack:
